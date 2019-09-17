@@ -1,1 +1,4 @@
-'include', 'Lib', 'pyvenv.cfg', 'Scripts', pip-selfcheck.json
+Lib/
+pyvenv.cfg
+Scripts/
+pip-selfcheck.json
